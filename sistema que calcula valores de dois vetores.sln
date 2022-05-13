@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema que calcula valores de dois vetores", "sistema que calcula valores de dois vetores.csproj", "{D64B9C1F-3402-44A4-83A5-CF72808083FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64B9C1F-3402-44A4-83A5-CF72808083FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64B9C1F-3402-44A4-83A5-CF72808083FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64B9C1F-3402-44A4-83A5-CF72808083FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64B9C1F-3402-44A4-83A5-CF72808083FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3669769-FA25-41EE-8D7A-FAAE688FF9C5}
+	EndGlobalSection
+EndGlobal
